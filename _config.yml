@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiying Deng"
-description              : &description "personal description"
+description              : 
 repository               : "Hiiizhy/zhiyingdzy.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -27,6 +27,7 @@ author:
   bio              : "Lecture, National Engineering Research Center of Educational Big Data, Faculty of Artificial Intelligence in Education, Central China Normal University"
   location         : "Wuhan, China"
   employer         : #"Hefei General Machinery Research Institute"
+  wechat           : happydzydd
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Vqtl0GsAAAAJ"
   email            : "zhiyingdzy@gmail.com"
