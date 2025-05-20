@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
 I am a lecture of Central China Normal University.
 My research are about recommender system, user behavior analysis, and smart education.
 I have served as a PC member for conferences, journals including NeurIPS, ICML, SIGIR, KDD, ACM MM, AAAI, RecSys, DASFAA, TKDE and BDMA, etc.
-I have published 20+ papers with
- <a href='https://scholar.google.com/citations?user=Vqtl0GsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 My research interest includes:
 - Recommendation System
