@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "简介"
-    url: "/zh-cn/#about-me"
+  # - title: "About me"
+  #   url: "/zh-cn/#about-me"
 
 
-  - title: "发表论文"
-    url: "/zh-cn/#-fblw"
+  # - title: "Publications"
+  #   url: "/zh-cn/#-fblw"
 
