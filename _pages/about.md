@@ -10,6 +10,7 @@ redirect_from:
 
 # About Me
 I am a lecture of Central China Normal University.
+I graduated from School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. with a doctor's degree, advised by Jianjun Li.
 My research are about recommender system, user behavior analysis, and smart education.
 I have served as a PC member for conferences, journals including NeurIPS, ICML, SIGIR, KDD, ACM MM, AAAI, RecSys, DASFAA, TKDE and BDMA, etc.
 
